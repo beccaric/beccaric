@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/93043262/162265033-9958d0b8-8c2d-4f31-b249-a8740cac8381.png)
-<h1 align="center">Hi 👋, I'm Rebecca Richards</h1>
+<h1 align="center">Hi 👋🏾, I'm Becca!</h1>
 <h3 align="center">A passionate frontend developer from Birmingham, UK.</h3>
 
 <p align="center"> <a href="https://twitter.com/codingbecs_" target="blank"><img src="https://img.shields.io/twitter/follow/codingbecs_?logo=twitter&style=for-the-badge" alt="codingbecs_" /></a> </p>
